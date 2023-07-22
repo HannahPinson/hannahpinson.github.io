@@ -9,15 +9,9 @@ profile_picture:
 Assistant Professor in AI at Eindhoven University of Technology (from September 2023) 
 </p>
 
-<p> Previously:
-   <ul>
-    <li> Master in Physics and Astronomy and Master in Computer Science, specialization AI,</li>
-  <li> FWO PhD Fellow in the Integrated Intelligence Lab at VUB, </li>
-  <li>Visiting researcher at the Max Tegmark group at the Center for Brains, Minds and Machines at MIT</li>
-  <li>and visiting researcher at the Michael Levin lab at Tufts University.</li>
-</ul> 
+<p>
+Current research focus: the influence of neural network architecture and dataset structure on the dynamics of learning in neural networks. 
 </p>
-
 
 <p>
 Most recent publication, at ICML 2023:  
@@ -27,6 +21,16 @@ Most recent publication, at ICML 2023:
 <p>
   I'm currently in Hawaii to present this work at the ICML conference. Come meet me Tuesday morning in poster session 1, poster 500, or send me a message using the links below! 🌴🐠
 </p>
+
+<p> Previously:
+   <ul>
+    <li> Master in Physics and Astronomy and Master in Computer Science, specialization AI,</li>
+  <li> FWO PhD Fellow in the Integrated Intelligence Lab at VUB, </li>
+  <li>visiting researcher at the Max Tegmark group at the Center for Brains, Minds and Machines at MIT</li>
+  <li>and visiting researcher at the Michael Levin lab at Tufts University.</li>
+</ul> 
+</p>
+
 
 
 
