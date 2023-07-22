@@ -1,75 +1,87 @@
-# CHANGELOG
+# Changelog
 
-This file lists all non-trivial changes to Beautiful Jekyll.
+All notable changes to this project will be documented in this file.
 
-I often make small changes to documentation, to the demo site, or to the general look-and-feel. These changes will not be listed here. Any other minor changes will also not be listed here.
+### [1.0.19](https://github.com/eliottvincent/bay/compare/v1.0.18...v1.0.19) (2022-10-19)
 
-**2018-12-24** Add support for Staticman comments (#440) (thanks @VincentTam)
+### Bug Fixes
 
-**2018-10-19** Move Google Analytics to the head (#419) (thanks @jpvicari)
+- Ensure `<strong>` tags are correctly rendered in Firefox
 
-**2018-06-08** Add support for Facebook comments (#350) (thanks @npes87184)
+### [1.0.18](https://github.com/eliottvincent/bay/compare/v1.0.17...v1.0.18) (2022-08-30)
 
-**2018-02-22** Automatically generate sitemap (#323) (thanks @JosemyDuarte)
+### Bug Fixes
 
-**2018-01-18** Add clickable tags to each post and a tags index page, works for GitHub sites (#307) (thanks @OCram85)
+- Fix hamburger size
+- Update dependencies
 
-**2018-01-14** Redo Dockerfile (#302) (thanks @jennydaman)
+### [1.0.17](https://github.com/eliottvincent/bay/compare/v1.0.16...v1.0.17) (2021-06-05)
 
-**2018-01-06** More color personalization options (#297 and #299) (thanks @jennydaman)
+### Features
 
-**2018-01-05** Abstract the social networks logic (thanks @OCram85)
+- Remove support for Retina-sized images
 
-**2018-01-03** Avatar image no longer causes a ghost click (thanks @alefi87)
+### [1.0.16](https://github.com/eliottvincent/bay/compare/v1.0.15...v1.0.16) (2021-02-23)
 
-**2017-10-16** Add GitHub buttons to posts (#265) (thanks @yonicd)
+### Bug Fixes
 
-**2017-09-04** Ability to change colour/image of navbar/footer/body
+- Rework footer's elements sizing ([1f1384b](https://github.com/eliottvincent/bay/commit/1f1384b2cfc07bc152cb8e44756e5a0fcbfbef11)), closes [#5](https://github.com/eliottvincent/bay/issues/5)
 
-**2017-08-17** Add support for notification, error, and warning boxes in markdown (#227) (thanks @OCram85)
+### [1.0.15](https://github.com/eliottvincent/bay/compare/v1.0.14...v1.0.15) (2020-12-21)
 
-**2017-08-12** Add social buttons for twitch, yelp, and steam (#234) (thanks @TheRealBenForce)
+### Features
 
-**2017-03-30** Make the footer contact links friendly for screen readers (thanks @eugenius1)
+- Add Dribbble to supported "follow" list items
 
-**2017-03-30** Started a CHANGELOG file (thanks @eugenius1)
+### Bug Fixes
 
-**2017-01-28** Add Subresource Integrity (SRI) support (#164) (thanks @tony-ho)
+- Fix `remote_theme` value in configuration (for GitHub Pages)
 
-**2017-01-09** Add Google Tag Manager Integration (#157) (thanks @csarigoz)
+### [1.0.14](https://github.com/eliottvincent/bay/compare/v1.0.13...v1.0.14) (2020-09-02)
 
-**2017-01-06** Add options to configure HTML document title (#154) (thanks @tony-ho)
+### Bug Fixes
 
-**2016-12-25** Allow dynamic images on each blog post (#143) (thanks @bbritten)
+- Fix WeChat widget not moving anymore
 
-**2016-12-15** Support `title-img` config param to have image in the navbar instead of text
+### [1.0.13](https://github.com/eliottvincent/bay/compare/v1.0.12...v1.0.13) (2020-08-12)
 
-**2016-12-08** Add support for phone numbers in footer; fix #136
+### Bug Fixes
 
-**2016-12-06** Update gemfile (#134) (thanks @stephentuso)
+- Update dependencies
 
-**2016-10-09** Add Docker deployment (#114) (thanks @mangar)
+### [1.0.12](https://github.com/eliottvincent/bay/compare/v1.0.11...v1.0.12) (2020-08-05)
 
-**2016-08-06** Add social share buttons for posts (thanks @rtlee9)
+### Bug Fixes
 
-**2016-07-29** Add CSS styling to code chunks
+- Make sure menu doesn't disappear ([ff45445](https://github.com/eliottvincent/bay/commit/ff45445761314a9b4a9b1e53f04c040ab2b62e3f)), closes [#1](https://github.com/eliottvincent/bay/issues/1)
+- Fix WeChat widget not moving anymore
 
-**2016-07-27** Add clickable tags that lead to a tag page (doesn't work for GitHub hosted sites) (thanks @epwalsh)
+### [1.0.11](https://github.com/eliottvincent/bay/compare/v1.0.10...v1.0.11) (2020-08-01)
 
-**2016-07-21** Add support for twitter cards (sharing on Twitter will be better); fixes #70
+### Bug Fixes
 
-**2016-03-18** Support full-width images in page headers; fixes #37
+- Fix work item spacing
+- Year displayed in footer is now dynamic
 
-**2016-03-18** Support menus in navigation bar
+### [1.0.10](https://github.com/eliottvincent/bay/compare/v1.0.9...v1.0.10) (2019-10-31)
 
-**2016-02-07** Avatar is now conditional (thanks @hristoyankov)
+### Bug Fixes
 
-**2016-02-02** Migrate (forced to...) to jekyll 3
+- Add GA
 
-**2016-01-22** Make sure not to include JQuery twice, fixes #29
+### [1.0.9](https://github.com/eliottvincent/bay/compare/v1.0.8...v1.0.9) (2019-10-28)
 
-**2015-11-19** Support external links in navigation bar; fixes #3
+### Bug Fixes
 
-... Many small changes because the site was in its infancy
+- Render WeChat widget only if necessary
 
-**2015-03-12** Beautiful Jekyll version 0.0000001 is released!
+### [1.0.8](https://github.com/eliottvincent/bay/compare/v1.0.7...v1.0.8) (2019-10-27)
+
+### Bug Fixes
+
+- Update configuration to support GitHub Pages deployment
+- Load assets through absolute path
+
+### 1.0.7 (2019-10-27)
+
+Initial version.
