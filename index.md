@@ -6,8 +6,8 @@ profile_picture:
 ---
 
 <p>
-Assistant Professor in AI at Eindhoven University of Technology (from September 2023)
-Previously: FWO PhD Fellow at Data Lab VUB, and visiting researcher at the Center for Brains, Minds and Machines at MIT
+Assistant Professor in AI at Eindhoven University of Technology (from September 2023) <br>
+Previously: FWO PhD Fellow in the Integrated Intelligence Lab at VUB, and visiting researcher at the Max Tegmark group at the Center for Brains, Minds and Machines at MIT.
 </p>
 
 
