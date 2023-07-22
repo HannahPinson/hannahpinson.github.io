@@ -7,6 +7,7 @@ profile_picture:
 
 <p>
 Assistant Professor in AI at Eindhoven University of Technology (from September 2023)
+Previously: FWO PhD Fellow at Data Lab VUB, and visiting researcher at the Center for Brains, Minds and Machines at MIT
 </p>
 
 
@@ -16,7 +17,7 @@ Most recent publication, at ICML 2023:
 </p>
 
 <p>
-  I'm currently in Hawaii to present this work at the ICNL conference. Come meet me Tuesday morning in poster session 1, poster 500, or send me a message using the links below! 🌴🐠
+  I'm currently in Hawaii to present this work at the ICML conference. Come meet me Tuesday morning in poster session 1, poster 500, or send me a message using the links below! 🌴🐠
 </p>
 
 
