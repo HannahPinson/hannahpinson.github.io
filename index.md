@@ -11,9 +11,13 @@ Assistant Professor in AI at Eindhoven University of Technology (from September 
 
 
 <p>
-  I'm currently in Hawaii to present our work at ICML 2023. Come meet me Tuesday morning in poster session 1, poster 500, or send me a message using the links below! 🌴🐠
+Most recent publication, at ICML 2023:  
+<a href="https://openreview.net/pdf?id=ZFBf47ZNos"> Linear CNNs Discover the Statistical Structure of the Dataset Using Only the Most Dominant Frequencies </a>
 </p>
 
+<p>
+  I'm currently in Hawaii to present this work at the ICNL conference. Come meet me Tuesday morning in poster session 1, poster 500, or send me a message using the links below! 🌴🐠
+</p>
 
 
 
