@@ -27,7 +27,7 @@ Most recent publication, at ICML 2023:
    <ul>
     <li> Master in Physics and Astronomy and Master in Computer Science, specialization AI,</li>
   <li> FWO PhD Fellow in the Integrated Intelligence Lab at VUB, </li>
-  <li>visiting researcher at the Max Tegmark group at the Center for Brains, Minds and Machines at MIT</li>
+  <li>visiting researcher at the Max Tegmark group at the Center for Brains, Minds and Machines at MIT,</li>
   <li>and visiting researcher at the Michael Levin lab at Tufts University.</li>
 </ul> 
 </p>
