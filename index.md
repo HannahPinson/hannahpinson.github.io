@@ -8,6 +8,7 @@ profile_picture:
 <p>
 Assistant Professor in AI at Eindhoven University of Technology (from September 2023) 
 </p>
+
 <p>
 Previously: FWO PhD Fellow in the Integrated Intelligence Lab at VUB, visiting researcher at the Max Tegmark group at the Center for Brains, Minds and Machines at MIT, and visiting researcher at the Michael Levin lab at Tufts University. 
 </p>
