@@ -21,12 +21,15 @@ footer:
   contact:
     - name: Email
       value: Hannah dot pinson at vub dot be
-      link: mailto:hannah.pinson@vub.be
   follow:
     - name: Twitter
       link: http://twitter.com/Hannah76617590
     - name: LinkedIn
-      link: http://linkedin.com/in/YourLinkedInUsername
+      link: http://linkedin.com/in/hannah-pinson-95b805b6
+    - name: Scholar
+      link: https://scholar.google.com/citations?user=4hYb7M8AAAAJ&hl=en
+	
+
 
 # Build settings
 markdown: kramdown
