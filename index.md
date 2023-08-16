@@ -19,9 +19,6 @@ Most recent publication, at ICML 2023:
 <a href="https://openreview.net/pdf?id=ZFBf47ZNos"> Linear CNNs Discover the Statistical Structure of the Dataset Using Only the Most Dominant Frequencies </a>
 </p>
 
-<p><i>
-  I'm currently in Hawaii to present this work at the ICML conference. Come meet me Tuesday morning in poster session 1, poster 500, or send me a message using the links below! 🌴🐠
-</i></p>
 
 <p> Previously:
    <ul>
