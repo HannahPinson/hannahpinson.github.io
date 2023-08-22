@@ -6,12 +6,12 @@ profile_picture:
 ---
 
 <p><strong>
-Assistant Professor in AI at Eindhoven University of Technology (from September 2023) 
+Assistant Professor of AI at Eindhoven University of Technology (from September 2023) 
 </strong>
 </p>
 
 <p>
-Current research focus: the influence of neural network architecture and dataset structure on the dynamics of learning in neural networks. 
+Current research focus: the influence of network architecture and dataset structure on the dynamics of learning in neural networks. 
 </p>
 
 <p>
