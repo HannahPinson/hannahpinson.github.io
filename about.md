@@ -4,7 +4,7 @@ title: About
 #slug: /blog
 ---
 
-Hannah Pinson, Assistant Professor of AI at Eindhoven University of Technology
+ <h2> Hannah Pinson, Assistant Professor of AI at Eindhoven University of Technology  </h2>
 
 I am interested in obtaining fundamental insights in deep learning.  My current focus is on questions about inductive bias, implicit regularization and generalization, and I mainly study the interplay between dataset structure, neural network architecture and gradient descent. I also teach about the use and understanding of neural networks at a master’s level, and I supervise several research projects in AI. 
 
